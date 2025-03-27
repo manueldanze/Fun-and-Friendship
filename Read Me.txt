@@ -1,0 +1,6 @@
+Fun and Friendship
+Made by Hugh Craig and Soh Hwee Yi
+
+Controls:
+- Mouse: Buy Towers, Reflect Projectiles
+- WASD/Arrow Keys: Move
